@@ -1,0 +1,11 @@
+mobTelID,gamintojas,modelis,kaina,kainaMenesiui
+,Samsung,Galaxy S10+,649,27.05
+,Samsung,Galaxy A20E,139,5.80
+,Samsung,Galaxy S20,649,27.05
+,Apple,Iphone 11 Pro 64GB,1099,45.80
+,Apple,Iphone 11 Pro MAX 256GB,1369,57.05
+,Apple,Iphone SE 64GB,469,19.55
+,Sony,Xperia 5 II 128GB,899,37.46
+,HUAWEI,P30 PRO 128GB,589,24.55
+,Xiaomi,MI 10T Pro 128GB,549,22.88
+,Nokia,216,39,1.63
